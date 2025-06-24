@@ -11,6 +11,8 @@ sites:
     url: https://vonatterkep.hu
   - name: ittavonat.eu
     url: https://ittavonat.eu
+    assignees:
+      - sztupy
   - name: holavonat.is
     url: https://holavonat.is
   - name: holavonat.kinsta.app
