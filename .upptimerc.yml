@@ -19,6 +19,8 @@ sites:
     url: https://holavonat.kinsta.app
   - name: holavon.at
     url: https://holavon.at
+  - name: hunavonat.hu
+    url: http://hunavonat.hu
 
 status-website:
   cname: holavonat.github.io
