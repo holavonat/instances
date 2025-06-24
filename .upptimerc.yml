@@ -22,7 +22,7 @@ status-website:
   cname: holavonat.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  baseUrl: /$REPO
+  baseUrl: /instances
   introTitle: "holavonat instances Upptime Status"
   introDescription: |
     This is a status page for the holavonat instances, powered by Upptime. It monitors the availability and performance of various services related to Hungarian train tracking.
