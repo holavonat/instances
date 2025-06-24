@@ -23,6 +23,8 @@ sites:
     url: http://hunavonat.hu
   - name: megisholavonat.info
     url: https://megisholavonat.info
+  - name: map.realtimenext.hu
+    url: https://map.realtimenext.hu
 status-website:
   cname: holavonat.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
