@@ -27,10 +27,13 @@ sites:
     url: https://map.realtimenext.hu
   - name: vasutterkep.hu
     url: https://vasutterkep.hu
+  - name: whataretheytrainingfor.com
+    url: https://whataretheytrainingfor.com/
+    
 status-website:
   cname: holavonat.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: holavonat instance tracker
   baseUrl: /instances
   introTitle: "holavonat instances Upptime Status"
   introDescription: |
