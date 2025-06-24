@@ -21,7 +21,8 @@ sites:
     url: https://holavon.at
   - name: hunavonat.hu
     url: http://hunavonat.hu
-
+  - name: megisholavonat.info
+    url: https://megisholavonat.info
 status-website:
   cname: holavonat.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
