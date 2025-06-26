@@ -29,7 +29,8 @@ sites:
     url: https://vasutterkep.hu
   - name: whataretheytrainingfor.com
     url: https://whataretheytrainingfor.com/
-    
+  - name: kodbazis.hu/holavonat
+    url: https://kodbazis.hu/holavonat
 status-website:
   cname: holavonat.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
