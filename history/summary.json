@@ -22,18 +22,20 @@
     "url": "https://mav-stat.info/map-lite.html",
     "icon": "https://icons.duckduckgo.com/ip3/mav-stat.info.ico",
     "slug": "mav-stat-info-map-lite-html",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 501,
-    "timeWeek": 482,
-    "timeMonth": 482,
-    "timeYear": 482,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 493,
+    "timeDay": 562,
+    "timeWeek": 493,
+    "timeMonth": 493,
+    "timeYear": 493,
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "vonatterkep.hu",
