@@ -22,19 +22,19 @@
     "url": "https://mav-stat.info/map-lite.html",
     "icon": "https://icons.duckduckgo.com/ip3/mav-stat.info.ico",
     "slug": "mav-stat-info-map-lite-html",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 493,
-    "timeDay": 562,
-    "timeWeek": 493,
-    "timeMonth": 493,
-    "timeYear": 493,
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
+    "time": 494,
+    "timeDay": 542,
+    "timeWeek": 494,
+    "timeMonth": 494,
+    "timeYear": 494,
     "dailyMinutesDown": {
-      "2025-06-26": 0
+      "2025-06-26": 31
     }
   },
   {
