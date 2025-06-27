@@ -35,6 +35,8 @@ sites:
     url: https://holavonat.mkkp.party/
   - name: vonatradar.hu
     url: https://vonatradar.hu
+  - name: holakurvavonat.com
+    url: https://holakurvavonat.com
 status-website:
   cname: holavonat.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
