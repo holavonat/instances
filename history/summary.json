@@ -23,13 +23,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/mav-stat.info.ico",
     "slug": "mav-stat-info-map-lite-html",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
     "time": 501,
-    "timeDay": 536,
+    "timeDay": 522,
     "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 501,
@@ -186,9 +186,9 @@
     "url": "https://vasutterkep.hu",
     "icon": "https://icons.duckduckgo.com/ip3/vasutterkep.hu.ico",
     "slug": "vasutterkep-hu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,7 +197,9 @@
     "timeWeek": 747,
     "timeMonth": 747,
     "timeYear": 747,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-27": 0
+    }
   },
   {
     "name": "whataretheytrainingfor.com",
