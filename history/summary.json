@@ -299,18 +299,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/holakurvaanyambavanavonat.hu.ico",
     "slug": "holakurvaanyambavanavonat-hu-mirror-list-only",
     "status": "up",
-    "uptime": "1.88%",
-    "uptimeDay": "1.88%",
-    "uptimeWeek": "1.88%",
-    "uptimeMonth": "1.88%",
-    "uptimeYear": "1.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 607,
     "timeDay": 607,
     "timeWeek": 607,
     "timeMonth": 607,
     "timeYear": 607,
-    "dailyMinutesDown": {
-      "2025-06-28": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
