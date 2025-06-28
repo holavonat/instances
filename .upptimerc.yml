@@ -37,6 +37,8 @@ sites:
     url: https://vonatradar.hu
   - name: holakurvavonat.com
     url: https://holakurvavonat.com
+  - name: holakurvaanyambavanavonat.hu (mirror list only)
+    url:  https://holakurvaanyambavanavonat.hu
 status-website:
   cname: holavonat.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
