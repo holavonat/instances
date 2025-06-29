@@ -41,6 +41,8 @@ sites:
     url:  http://holakurvaanyambavanavonat.hu
   - name: sinenvagyunk.hu
     url: https://sinenvagyunk.hu/
+  - name: vonat-keses.hu
+    url: https://vonat-keses.hu
 status-website:
   cname: holavonat.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
