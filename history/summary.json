@@ -340,19 +340,19 @@
     "url": "https://vonat-keses.hu",
     "icon": "https://icons.duckduckgo.com/ip3/vonat-keses.hu.ico",
     "slug": "vonat-keses-hu",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2762,
-    "timeDay": 6865,
-    "timeWeek": 2762,
-    "timeMonth": 2762,
-    "timeYear": 2762,
+    "status": "up",
+    "uptime": "98.96%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
+    "time": 2369,
+    "timeDay": 4028,
+    "timeWeek": 2369,
+    "timeMonth": 2369,
+    "timeYear": 2369,
     "dailyMinutesDown": {
-      "2025-06-30": 0
+      "2025-06-30": 21
     }
   }
 ]
