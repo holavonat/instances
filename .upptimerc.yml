@@ -43,6 +43,10 @@ sites:
     url: https://sinenvagyunk.hu/
   - name: vonat-keses.hu
     url: https://vonat-keses.hu
+  - name: holavonat.serverhu.eu
+    url: https://holavonat.serverhu.eu
+    assignees:
+      - ItsMeSudo
 status-website:
   cname: holavonat.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
