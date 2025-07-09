@@ -1,7 +1,7 @@
 url: https://vonatradar.hu
-status: up
-code: 200
-responseTime: 598
-lastUpdated: 2025-07-09T01:26:54.758Z
+status: down
+code: 502
+responseTime: 556
+lastUpdated: 2025-07-09T05:32:02.705Z
 startTime: 2025-06-26T11:32:06.081Z
 generator: Upptime <https://github.com/upptime/upptime>
