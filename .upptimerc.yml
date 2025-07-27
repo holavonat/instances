@@ -47,6 +47,8 @@ sites:
     url: https://holavonat.serverhu.eu
     assignees:
       - ItsMeSudo
+  - name: mennyitkesik.com
+    url: https://mennyitkesik.com
 status-website:
   cname: holavonat.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
