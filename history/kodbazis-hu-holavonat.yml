@@ -1,7 +1,7 @@
 url: https://kodbazis.hu/holavonat
-status: up
-code: 200
-responseTime: 1342
-lastUpdated: 2025-10-11T16:15:31.762Z
+status: down
+code: 403
+responseTime: 1193
+lastUpdated: 2025-10-11T22:16:07.728Z
 startTime: 2025-06-26T11:10:51.906Z
 generator: Upptime <https://github.com/upptime/upptime>
