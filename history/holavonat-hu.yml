@@ -1,7 +1,7 @@
 url: https://holavonat.hu/
-status: up
-code: 200
-responseTime: 750
-lastUpdated: 2025-11-18T14:39:03.328Z
+status: down
+code: 500
+responseTime: 200
+lastUpdated: 2025-11-18T15:30:52.994Z
 startTime: 2025-06-24T09:17:17.798Z
 generator: Upptime <https://github.com/upptime/upptime>
