@@ -1,7 +1,7 @@
 url: https://vasutterkep.hu
-status: up
-code: 200
-responseTime: 767
-lastUpdated: 2025-12-01T23:13:29.443Z
+status: down
+code: 503
+responseTime: 979
+lastUpdated: 2025-12-01T23:33:00.523Z
 startTime: 2025-06-24T14:31:44.119Z
 generator: Upptime <https://github.com/upptime/upptime>
