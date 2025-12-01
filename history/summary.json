@@ -159,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-12-01": 1281,
+      "2025-12-01": 1292,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
@@ -394,19 +394,19 @@
     "url": "https://kodbazis.hu/holavonat",
     "icon": "https://icons.duckduckgo.com/ip3/kodbazis.hu.ico",
     "slug": "kodbazis-hu-holavonat",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "93.62%",
-    "uptimeWeek": "96.60%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "93.57%",
+    "uptimeWeek": "96.59%",
     "uptimeMonth": "98.07%",
-    "uptimeYear": "98.67%",
+    "uptimeYear": "98.72%",
     "time": 1164,
     "timeDay": 1218,
     "timeWeek": 1328,
     "timeMonth": 1352,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2025-12-01": 92,
+      "2025-12-01": 93,
       "2025-11-29": 21,
       "2025-11-28": 72,
       "2025-11-27": 42,
@@ -467,7 +467,7 @@
       "2025-07-27": 59,
       "2025-07-26": 90,
       "2025-07-25": 95,
-      "2025-07-24": 134
+      "2025-07-24": 24
     }
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 200,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2025-12-01": 1281,
+      "2025-12-01": 1293,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
@@ -630,7 +630,7 @@
     "timeMonth": 0,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-12-01": 1281,
+      "2025-12-01": 1293,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
