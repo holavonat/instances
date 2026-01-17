@@ -160,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2026-01-17": 1189,
+      "2026-01-17": 1197,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -391,7 +391,7 @@
     "timeMonth": 689,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2026-01-17": 1189,
+      "2026-01-17": 1197,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -607,7 +607,7 @@
     "timeMonth": 202,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2026-01-17": 1189,
+      "2026-01-17": 1197,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -776,7 +776,7 @@
     "timeMonth": 0,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2026-01-17": 1189,
+      "2026-01-17": 1197,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -929,19 +929,19 @@
     "url": "http://holakurvaanyambavanavonat.hu",
     "icon": "https://icons.duckduckgo.com/ip3/holakurvaanyambavanavonat.hu.ico",
     "slug": "holakurvaanyambavanavonat-hu-mirror-list-only",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "85.14%",
-    "uptimeWeek": "95.65%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "85.08%",
+    "uptimeWeek": "95.64%",
     "uptimeMonth": "97.76%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.02%",
     "time": 1728,
     "timeDay": 1753,
     "timeWeek": 1693,
     "timeMonth": 1680,
     "timeYear": 1728,
     "dailyMinutesDown": {
-      "2026-01-17": 214,
+      "2026-01-17": 215,
       "2026-01-15": 82,
       "2026-01-14": 58,
       "2026-01-13": 32,
@@ -1006,8 +1006,7 @@
       "2025-09-13": 18,
       "2025-09-12": 60,
       "2025-09-10": 19,
-      "2025-09-09": 16,
-      "2025-09-08": 17
+      "2025-09-09": 16
     }
   },
   {
@@ -1069,7 +1068,7 @@
     "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
-    "uptimeMonth": "97.45%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "99.02%",
     "time": 12243,
     "timeDay": 10316,
