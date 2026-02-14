@@ -1,7 +1,7 @@
 url: https://vonat-keses.hu
-status: up
-code: 200
-responseTime: 6139
-lastUpdated: 2026-02-13T23:23:56.977Z
+status: down
+code: 500
+responseTime: 2544
+lastUpdated: 2026-02-14T02:00:33.666Z
 startTime: 2025-06-29T14:45:06.128Z
 generator: Upptime <https://github.com/upptime/upptime>
