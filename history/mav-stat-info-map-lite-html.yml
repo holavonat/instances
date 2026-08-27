@@ -1,7 +1,7 @@
 url: https://mav-stat.info/map-lite.html
-status: up
-code: 200
-responseTime: 481
-lastUpdated: 2026-08-27T04:09:38.972Z
+status: down
+code: 503
+responseTime: 445
+lastUpdated: 2026-08-27T04:59:41.508Z
 startTime: 2025-06-24T09:17:18.323Z
 generator: Upptime <https://github.com/upptime/upptime>
